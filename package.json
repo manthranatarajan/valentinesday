@@ -1,0 +1,16 @@
+{
+    "name": "valentinesday",
+    "version": "1.0.0",
+    "description": "A simple web project",
+    "main": "script.js",
+    "scripts": {
+      "dev": "live-server",
+      "start": "node script.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "live-server": "^1.2.1"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
